@@ -2,10 +2,11 @@
 Melbourne House Price Prediction dataset and trained model.
 
 
-
-
-
-
+##### Repository Structure:
+```
++ DataSet: contains the Complete Melbourne Housing Dataset.
++ annotations: contains the xml files in PASCAL VOC format
+```
 
 
 
